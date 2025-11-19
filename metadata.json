@@ -1,0 +1,5 @@
+{
+  "name": "Monthly Financial Tracker",
+  "description": "An intuitive web application to track your monthly income and expenses. It provides visualizations of your spending habits and offers daily financial tips powered by Gemini to help you manage your money better.",
+  "requestFramePermissions": []
+}
